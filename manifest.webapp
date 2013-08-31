@@ -1,9 +1,9 @@
 {
   "name": "Puzzle Game",
   "description": "Puzzle Game",
-  "launch_path": "/puzzle-game/index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "128": "/puzzle-game/style/img/icon.png"
+    "128": "/style/img/icon.png"
   },
   "developer": {
     "name": "Evan Xd",
