@@ -1,0 +1,13 @@
+{
+  "name": "Puzzle Game",
+  "description": "Puzzle Game",
+  "launch_path": "/puzzle-game/index.html",
+  "icons": {
+    "128": "/puzzle-game/style/img/icon.png"
+  },
+  "developer": {
+    "name": "Evan Xd",
+    "url": "http://github.com/evanxd"
+  },
+  "default_locale": "en"
+}
